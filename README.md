@@ -1,2 +1,2 @@
-# OnlineVotingSystem
-Vote Casting System is an online (Desktop Based Voting System) which offers various significant features like Voting place, views, predict result, and report system. A user from any country from all over the world can cast their vote to any party.
+# RandomNumberSelectionGame
+This module implements pseudo-random number generators for various distributions. For integers, uniform selection from a range. For sequences, uniform selection of a random element, a function to generate a random permutation of a list in-place
